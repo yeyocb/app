@@ -1,4 +1,4 @@
 import streamlit as st
 
 
-st.title("SISTEMA HOSPITAL")
+st.title("SISTEMA HOSPITALARIO")
